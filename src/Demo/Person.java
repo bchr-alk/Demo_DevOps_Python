@@ -6,7 +6,7 @@ public class Person {
 	public String nom;
 	public String prenom;
 	
-	// C5
+	// C6
 	
 	
 }
