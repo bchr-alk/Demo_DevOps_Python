@@ -2,7 +2,7 @@ package Demo;
 
 public class Person {
 
-	// comment 
+	// comment  
 	public String nom;
 	public String prenom;
 }
